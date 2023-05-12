@@ -10,3 +10,4 @@ ALGORITHMS USED
 3.Gradient Boosting Classifier 
 
 RESULT
+![comparison](https://github.com/Snehasampath/Phishing/assets/127504854/88b82afa-eb6c-40ad-b6e6-6e2bfea71580)
