@@ -15,6 +15,13 @@ RESULT
 ![COMPARISON](https://github.com/Snehasampath/Phishing/assets/127504854/83b98416-da6c-4583-a618-8308b8bcc672)
 
 
+
+
+API DEVELOPMENT
+
+
+
+
 ![1](https://github.com/Snehasampath/Phishing/assets/127504854/19a14f1e-5974-476b-9b05-d23373c015eb)
 ![2](https://github.com/Snehasampath/Phishing/assets/127504854/58ae580b-003e-4fcb-be24-a9647ad1b643)
 ![3](https://github.com/Snehasampath/Phishing/assets/127504854/730c361d-07ae-465d-bc93-dd0b616a137d)
